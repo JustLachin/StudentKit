@@ -1,4 +1,6 @@
 # StudentKit - Öğrenci Asistanı | Student Assistant
+## HIZLICA İNDİR .EXE | QUICK DOWNLOAD .EXE
+- **StudentKit** https://github.com/JustLachin/StudentKit/releases/download/v1.0/StudentKit.zip
 
 ## Hakkında | About
 StudentKit, öğrenciler için geliştirilmiş kapsamlı bir üretkenlik uygulamasıdır.  
