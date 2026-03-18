@@ -1,0 +1,299 @@
+{
+  "metadata": {
+    "code": "en",
+    "name": "English",
+    "native_name": "English",
+    "author": "Student Study Kit",
+    "version": "1.0",
+    "direction": "ltr"
+  },
+  "app": {
+    "title": "Student Study Kit",
+    "subtitle": "Your comprehensive study companion",
+    "loading": "Loading...",
+    "saving": "Saving...",
+    "error": "Error",
+    "success": "Success",
+    "warning": "Warning",
+    "info": "Info",
+    "cancel": "Cancel",
+    "save": "Save",
+    "delete": "Delete",
+    "edit": "Edit",
+    "add": "Add",
+    "close": "Close",
+    "back": "Back",
+    "next": "Next",
+    "finish": "Finish",
+    "search": "Search",
+    "filter": "Filter",
+    "sort": "Sort",
+    "refresh": "Refresh",
+    "settings": "Settings",
+    "language": "Language",
+    "theme": "Theme",
+    "volume": "Volume",
+    "notifications": "Notifications"
+  },
+  "navigation": {
+    "dashboard": "Dashboard",
+    "pomodoro": "Pomodoro",
+    "notes": "Notes",
+    "lessons": "Lessons",
+    "exams": "Exams",
+    "settings": "Settings"
+  },
+  "dashboard": {
+    "title": "Dashboard",
+    "welcome": "Welcome",
+    "subtitle": "Your comprehensive study companion",
+    "stats": {
+      "focus_sessions_7d": "Focus Sessions (7d)",
+      "total_focus_time": "Total Focus Time",
+      "notes_created": "Notes Created",
+      "upcoming_exams": "Upcoming Exams"
+    },
+    "quick_actions": "Quick Actions",
+    "actions": {
+      "start_pomodoro": "Start Pomodoro",
+      "new_note": "New Note",
+      "view_schedule": "View Schedule",
+      "check_exams": "Check Exams"
+    },
+    "recent_activity": "Recent Activity",
+    "no_activity": "No activity yet"
+  },
+  "pomodoro": {
+    "title": "Pomodoro Timer",
+    "timer": {
+      "focus_time": "FOCUS TIME",
+      "break_time": "BREAK TIME",
+      "ready": "READY"
+    },
+    "stats": {
+      "todays_sessions": "Today's Sessions",
+      "focus_duration": "Focus Duration",
+      "completed": "Completed"
+    },
+    "controls": {
+      "start": "START",
+      "pause": "PAUSE",
+      "reset": "RESET",
+      "resume": "RESUME",
+      "skip_break": "Skip Break"
+    },
+    "duration": "Duration",
+    "durations": {
+      "15m": "15 min",
+      "25m": "25 min",
+      "45m": "45 min",
+      "60m": "60 min",
+      "custom": "Custom"
+    },
+    "subject": "Subject",
+    "subjects": [
+      "General",
+      "Mathematics",
+      "Physics",
+      "Chemistry",
+      "Biology",
+      "History",
+      "Geography",
+      "Literature",
+      "Programming",
+      "English",
+      "German",
+      "Other"
+    ],
+    "break": {
+      "short_break": "Short Break (5 min)",
+      "long_break": "Long Break (15 min)",
+      "break_started": "Break started!",
+      "break_finished": "Break finished!"
+    },
+    "notifications": {
+      "session_complete": "Focus session completed!",
+      "break_complete": "Break completed!",
+      "time_remaining": "Time remaining: {minutes}:{seconds}"
+    }
+  },
+  "notes": {
+    "title": "My Notes",
+    "search_placeholder": "Search notes...",
+    "new_note": "New Note",
+    "edit_note": "Edit Note",
+    "delete_note": "Delete Note",
+    "no_notes": "No notes yet",
+    "created": "Created",
+    "updated": "Updated",
+    "form": {
+      "title": "Note Title",
+      "title_placeholder": "Enter note title...",
+      "subject": "Subject",
+      "content": "Content",
+      "content_placeholder": "Write your notes here..."
+    },
+    "actions": {
+      "record_voice": "Record Voice",
+      "stop_recording": "Stop Recording",
+      "attach_pdf": "Attach PDF",
+      "view_pdf": "View PDF",
+      "delete_pdf": "Remove PDF",
+      "recording": "Recording...",
+      "audio_attached": "Audio file attached",
+      "pdf_attached": "PDF file attached"
+    },
+    "confirm_delete": "Are you sure you want to delete this note?",
+    "save_success": "Note saved successfully!",
+    "delete_success": "Note deleted successfully!"
+  },
+  "lessons": {
+    "title": "Weekly Lesson Schedule",
+    "add_lesson": "Add Lesson",
+    "edit_lesson": "Edit Lesson",
+    "delete_lesson": "Delete Lesson",
+    "no_lessons": "No lessons today",
+    "todays_lessons": "Today's Lessons:",
+    "days": [
+      "Monday",
+      "Tuesday",
+      "Wednesday",
+      "Thursday",
+      "Friday",
+      "Saturday",
+      "Sunday"
+    ],
+    "form": {
+      "subject": "Subject",
+      "subject_placeholder": "Subject name",
+      "day": "Day",
+      "start_time": "Start Time",
+      "end_time": "End Time",
+      "room": "Room",
+      "room_placeholder": "Room/Classroom",
+      "teacher": "Teacher",
+      "teacher_placeholder": "Teacher name",
+      "color": "Color"
+    },
+    "lesson_card": {
+      "room": "Room",
+      "teacher": "Teacher"
+    },
+    "confirm_delete": "Are you sure you want to delete this lesson?",
+    "save_success": "Lesson added successfully!",
+    "delete_success": "Lesson deleted successfully!"
+  },
+  "exams": {
+    "title": "Exam Schedule",
+    "add_exam": "Add Exam",
+    "edit_exam": "Edit Exam",
+    "delete_exam": "Delete Exam",
+    "no_exams": "No upcoming exams",
+    "next_exam_countdown": "Next Exam Countdown",
+    "countdown": {
+      "days": "d",
+      "hours": "h",
+      "minutes": "m",
+      "seconds": "s",
+      "exam_now": "EXAM TIME!",
+      "exam_started": "EXAM STARTED!"
+    },
+    "status": {
+      "today": "TODAY!",
+      "tomorrow": "Tomorrow",
+      "days_left": "{days} days",
+      "past": "Past"
+    },
+    "form": {
+      "title": "Title",
+      "title_placeholder": "Exam name",
+      "subject": "Subject",
+      "subject_placeholder": "Subject name",
+      "date_time": "Date & Time",
+      "duration": "Duration",
+      "duration_suffix": "min",
+      "location": "Location",
+      "location_placeholder": "Exam location",
+      "priority": "Priority",
+      "notes": "Notes"
+    },
+    "priorities": [
+      "Low",
+      "Medium",
+      "High"
+    ],
+    "details": {
+      "subject": "Subject",
+      "date": "Date",
+      "time": "Time",
+      "location": "Location",
+      "duration": "Duration",
+      "priority": "Priority"
+    },
+    "confirm_delete": "Are you sure you want to delete this exam?",
+    "save_success": "Exam added successfully!",
+    "delete_success": "Exam deleted successfully!",
+    "alert": {
+      "title": "Exam Approaching!",
+      "message": "{exam_name} exam starts in 5 minutes!"
+    }
+  },
+  "settings": {
+    "title": "Settings",
+    "language": {
+      "title": "Language Settings",
+      "current": "Current Language",
+      "select": "Select Language",
+      "add_custom": "Add Custom Language",
+      "custom_info": "Upload your own JSON language file",
+      "language_changed": "Language changed!"
+    },
+    "appearance": {
+      "title": "Appearance",
+      "theme": "Theme",
+      "dark_mode": "Dark Mode",
+      "light_mode": "Light Mode",
+      "accent_color": "Accent Color"
+    },
+    "sound": {
+      "title": "Sound Settings",
+      "volume": "Volume Level",
+      "mute": "Mute",
+      "sound_effects": "Sound Effects",
+      "notifications": "Notification Sounds"
+    },
+    "data": {
+      "title": "Data Management",
+      "export": "Export Data",
+      "import": "Import Data",
+      "backup": "Backup",
+      "restore": "Restore",
+      "clear_all": "Clear All Data",
+      "confirm_clear": "Are you sure you want to delete all data? This action cannot be undone!"
+    },
+    "about": {
+      "title": "About",
+      "version": "Version",
+      "author": "Author",
+      "license": "License",
+      "github": "GitHub"
+    }
+  },
+  "time": {
+    "minute": "minute",
+    "minutes": "minutes",
+    "hour": "hour",
+    "hours": "hours",
+    "day": "day",
+    "days": "days",
+    "today": "Today",
+    "tomorrow": "Tomorrow",
+    "yesterday": "Yesterday"
+  },
+  "confirmations": {
+    "delete_title": "Confirm Delete",
+    "delete_message": "Are you sure you want to delete this item?",
+    "unsaved_changes": "You have unsaved changes. Are you sure you want to exit?",
+    "overwrite": "This file already exists. Do you want to overwrite it?"
+  }
+}
