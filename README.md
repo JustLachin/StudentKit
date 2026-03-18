@@ -1,4 +1,4 @@
-# StudentKit - Öğrenci Asistanı | StudentKit - Student Assistant
+# StudentKit - Öğrenci Asistanı | Student Assistant
 
 ## Hakkında | About
 StudentKit, öğrenciler için geliştirilmiş kapsamlı bir üretkenlik uygulamasıdır.  
