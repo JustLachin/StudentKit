@@ -23,8 +23,7 @@ You can start the application by double-clicking the `StudentKit.exe` file.
 
 ## Sistem Gereksinimleri | System Requirements
 - Windows 10/11  
-- Python 3.10+ (kaynak koddan çalıştırmak için, önemli değil sadece .exe çalıştırın yeterlidir.)  
-- Windows 10/11  
+- Python 3.10+ (kaynak koddan çalıştırmak için, önemli değil sadece .exe çalıştırın yeterlidir.)   
 - Python 3.10+ (to run from source, It doesn't matter, just run the .exe file.)
 
 ## Geliştirici | Developer
